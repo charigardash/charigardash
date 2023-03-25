@@ -1,4 +1,4 @@
-<h3 align="left">Hey  What's up?</h3>
+<h2 align="left">Hey  What's up?</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">About me</h3>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h6 align="left">Libraries & Framework :</h6>
+<h3 align="left">Libraries & Framework :</h3>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<h6 align="left">DevOps & Cloud Tools:</h6>
+<h3 align="left">DevOps & Cloud Tools:</h3>
 
 ###
 
