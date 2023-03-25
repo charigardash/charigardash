@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Md Osama Ansari and I'm full-stack developer</p>
+<p align="left">My name is Md Osama Ansari and I'm full-stack developer.</p>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<h6 align="left">Languages & Databases:</h6>
+<h3 align="left">Languages & Databases:</h3>
 
 ###
 
